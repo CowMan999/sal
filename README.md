@@ -5,4 +5,4 @@ A header-only library which is meant to serve as a simple lightweight replacemen
 
 
 ## Usage
-As a header-only library, just place sal.hpp in the same folder as your c++ project and include it. ```#include "sal.cpp"```
+As a header-only library, just place sal.hpp in the same folder as your c++ project and include it.  ```#include "sal.cpp"```
